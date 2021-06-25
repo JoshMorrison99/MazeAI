@@ -11,5 +11,12 @@
   ],
   "author": {
     "name": "Josh Morrison"
-  }
+  },
+  "samples": [
+        {
+            "displayName": "Dungeon Generator Sample",
+            "description": "Contains sample",
+            "path": "Samples~/UnityDungeonGenerator"
+        }
+    ]
 }
