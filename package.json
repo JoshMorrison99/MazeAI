@@ -1,0 +1,15 @@
+{
+  "name": "com.dungeon.shelled.dungeongenerator",
+  "version": "1.0.0",
+  "displayName": "Dungeon Generator",
+  "description": "This is a dungeon generation script",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Dungeon",
+    "Generator"
+  ],
+  "author": {
+    "name": "Josh Morrison"
+  }
+}
